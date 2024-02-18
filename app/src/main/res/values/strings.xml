@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="guestroom">Guestroom 101</string>
+    <string name="inspections">Inspections</string>
+    <string name="hint_first">Holiday Inn Express Franklin</string>
+    <string name="hint_first2">In progress 18/2/2024 at 7:31 Am by David</string>
+</resources>
